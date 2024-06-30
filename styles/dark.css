@@ -13,6 +13,7 @@
   --content-title-color: #FF0070;
   --content-subtitle-color: #000028;
   --visibility: visible;
+  --bg-subtitle: #FF0070;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -31,5 +32,6 @@
     --content-title-color: #000028;
     --content-subtitle-color: #000028;
     --visibility: visible;
+    --bg-subtitle: #FF0070;
   }
 }

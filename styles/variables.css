@@ -13,5 +13,14 @@
   --shadow-color: #FF0070;
   --content-subtitle-color: #000028;
   --visibility: visible;
+  --bg-subtitle: #FF0070;
+  --logo-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
 }
+
+@media (width >= 768px) {
+  :root {
+    --heading-font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
+    }
+}
+
 
