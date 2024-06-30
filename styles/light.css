@@ -14,6 +14,7 @@
   --content-subtitle-color: #353430;
   --visibility: hidden;
   --bg-subtitle: #FF8DCB;
+  --hover-outline: rgba(53, 52, 48, 0.5);
 }
 
 @media (prefers-color-scheme: light) {
@@ -33,5 +34,6 @@
     --content-subtitle-color: #353430;
     --visibility: hidden;
     --bg-subtitle: #FF8DCB;
+    --hover-outline: rgba(53, 52, 48, 0.5);
   }
 }

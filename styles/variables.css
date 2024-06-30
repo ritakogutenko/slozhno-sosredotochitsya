@@ -15,6 +15,7 @@
   --visibility: visible;
   --bg-subtitle: #FF0070;
   --logo-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
+  --hover-outline: rgba(255, 0, 112, 0.5);
 }
 
 @media (width >= 768px) {

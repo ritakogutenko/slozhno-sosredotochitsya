@@ -119,6 +119,10 @@
   border-bottom: 1px solid var(--nav-color);
 }
 
+.header__theme-menu-button:hover {
+  outline: 1px solid var(--hover-outline);
+}
+
 .header__theme-menu-button_active {
   outline: 1px solid var(--nav-color);
   cursor: default;
